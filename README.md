@@ -1,5 +1,5 @@
 # Object-Detection-System-To-Detect-and-Prevent-Danger
-Tinkercad Project
+Tinkercad Project, I wanted to create and simulate a system that detects objects through an ultrasonic sesnor and reacts when danger is detected.
 
 Circuit Diagram:
 ![image](https://github.com/user-attachments/assets/14e41e45-1fd3-46e2-a573-218b487fe718)
